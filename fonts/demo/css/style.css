@@ -146,7 +146,351 @@ icons
   font icons
 -------------------------*/
 
+.wa-ico-home::before {
+    content: "\ea02";
+}
+
+.wa-ico-sessions::before {
+    content: "\ea03";
+}
+
+.wa-ico-otp::before {
+    content: "\ea04";
+}
+
+.wa-ico-app-content::before {
+    content: "\ea05";
+}
+
+.wa-ico-platform::before {
+    content: "\ea06";
+}
+
+.wa-ico-users::before {
+    content: "\ea07";
+}
+
+.wa-ico-plugins::before {
+    content: "\ea08";
+}
+
+.wa-ico-services::before {
+    content: "\ea09";
+}
+
+.wa-ico-thresholds::before {
+    content: "\ea0a";
+}
+
+.wa-ico-transactions::before {
+    content: "\ea0b";
+}
+
+.wa-ico-log::before {
+    content: "\ea0c";
+}
+
+.wa-ico-system::before {
+    content: "\ea0d";
+}
+
+.wa-ico-ok::before {
+    content: "\ea0e";
+}
+
+.wa-ico-ko::before {
+    content: "\ea0f";
+}
+
+.wa-ico-warning::before {
+    content: "\ea10";
+}
+
+.wa-ico-add::before {
+    content: "\ea11";
+}
+
+.wa-ico-admin-users::before {
+    content: "\ea12";
+}
+
+.wa-ico-import::before {
+    content: "\ea13";
+}
+
+.wa-ico-export::before {
+    content: "\ea14";
+}
+
+.wa-ico-no::before {
+    content: "\ea15";
+}
+
+.wa-ico-refresh::before {
+    content: "\ea16";
+}
+
+.wa-ico-search::before {
+    content: "\ea17";
+}
+
+.wa-ico-configuration::before {
+    content: "\ea18";
+}
+
+.wa-ico-chart::before {
+    content: "\ea19";
+}
+
+.wa-ico-view::before {
+    content: "\ea1a";
+}
+
+.wa-ico-count::before {
+    content: "\ea1b";
+}
+
+.wa-ico-smartphone::before {
+    content: "\ea1c";
+}
+
+.wa-ico-html::before {
+    content: "\ea1d";
+}
+
+.wa-ico-toolbox::before {
+    content: "\ea1e";
+}
+
+.wa-ico-toolbox-big::before {
+    content: "\ea1f";
+}
+
+.wa-ico-json-file::before {
+    content: "\ea20";
+}
+
+.wa-ico-house-key::before {
+    content: "\ea21";
+}
+
+.wa-ico-otp-password::before {
+    content: "\ea22";
+}
+
+.wa-ico-edit::before {
+    content: "\ea23";
+}
+
+.wa-ico-download::before {
+    content: "\ea24";
+}
+
+.wa-ico-yes::before {
+    content: "\ea25";
+}
+
+.wa-ico-counter::before {
+    content: "\ea26";
+}
+
+.wa-ico-list-progress::before {
+    content: "\ea27";
+}
+
+.wa-ico-web::before {
+    content: "\ea28";
+}
+
+.wa-ico-publish::before {
+    content: "\ea29";
+}
+
+.wa-ico-json::before {
+    content: "\ea2a";
+}
+
+.wa-ico-key::before {
+    content: "\ea2b";
+}
+
 .wa-ico-links::before {
-    content: "\ea01";
+    content: "\ea2c";
+}
+
+.wa-ico-home-2::before {
+    content: "\ea2d";
+}
+
+.wa-ico-sessions-2::before {
+    content: "\ea2e";
+}
+
+.wa-ico-otp-2::before {
+    content: "\ea2f";
+}
+
+.wa-ico-app-content-2::before {
+    content: "\ea30";
+}
+
+.wa-ico-platform-2::before {
+    content: "\ea31";
+}
+
+.wa-ico-users-2::before {
+    content: "\ea32";
+}
+
+.wa-ico-plugins-2::before {
+    content: "\ea33";
+}
+
+.wa-ico-services-2::before {
+    content: "\ea34";
+}
+
+.wa-ico-thresholds-2::before {
+    content: "\ea35";
+}
+
+.wa-ico-transactions-2::before {
+    content: "\ea36";
+}
+
+.wa-ico-log-2::before {
+    content: "\ea37";
+}
+
+.wa-ico-system-2::before {
+    content: "\ea38";
+}
+
+.wa-ico-ok-2::before {
+    content: "\ea39";
+}
+
+.wa-ico-ko-2::before {
+    content: "\ea3a";
+}
+
+.wa-ico-warning-2::before {
+    content: "\ea3b";
+}
+
+.wa-ico-add-2::before {
+    content: "\ea3c";
+}
+
+.wa-ico-admin-users-2::before {
+    content: "\ea3d";
+}
+
+.wa-ico-import-2::before {
+    content: "\ea3e";
+}
+
+.wa-ico-export-2::before {
+    content: "\ea3f";
+}
+
+.wa-ico-no-2::before {
+    content: "\ea40";
+}
+
+.wa-ico-refresh-2::before {
+    content: "\ea41";
+}
+
+.wa-ico-search-2::before {
+    content: "\ea42";
+}
+
+.wa-ico-configuration-2::before {
+    content: "\ea43";
+}
+
+.wa-ico-chart-2::before {
+    content: "\ea44";
+}
+
+.wa-ico-view-2::before {
+    content: "\ea45";
+}
+
+.wa-ico-count-2::before {
+    content: "\ea46";
+}
+
+.wa-ico-smartphone-2::before {
+    content: "\ea47";
+}
+
+.wa-ico-html-2::before {
+    content: "\ea48";
+}
+
+.wa-ico-toolbox-2::before {
+    content: "\ea49";
+}
+
+.wa-ico-toolbox-big-2::before {
+    content: "\ea4a";
+}
+
+.wa-ico-json-file-2::before {
+    content: "\ea4b";
+}
+
+.wa-ico-house-key-2::before {
+    content: "\ea4c";
+}
+
+.wa-ico-otp-password-2::before {
+    content: "\ea4d";
+}
+
+.wa-ico-edit-2::before {
+    content: "\ea4e";
+}
+
+.wa-ico-download-2::before {
+    content: "\ea4f";
+}
+
+.wa-ico-yes-2::before {
+    content: "\ea50";
+}
+
+.wa-ico-counter-2::before {
+    content: "\ea51";
+}
+
+.wa-ico-list-progress-2::before {
+    content: "\ea52";
+}
+
+.wa-ico-web-2::before {
+    content: "\ea53";
+}
+
+.wa-ico-publish-2::before {
+    content: "\ea54";
+}
+
+.wa-ico-json-2::before {
+    content: "\ea55";
+}
+
+.wa-ico-key-2::before {
+    content: "\ea56";
+}
+
+.wa-ico-vipera-logo::before {
+    content: "\ea57";
+}
+
+.wa-ico-links-2::before {
+    content: "\ea58";
 }
 
