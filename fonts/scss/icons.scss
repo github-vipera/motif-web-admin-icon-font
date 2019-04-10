@@ -49,6 +49,7 @@ $wa-ico-plugins: unicode(ea2a);
 $wa-ico-users: unicode(ea2b);
 $wa-ico-platform: unicode(ea2c);
 $wa-ico-sessions: unicode(ea2d);
+$wa-ico-dashboard: unicode(ea2e);
 
 .wa-ico-links::before {
   content: $wa-ico-links;
@@ -224,5 +225,9 @@ $wa-ico-sessions: unicode(ea2d);
 
 .wa-ico-sessions::before {
   content: $wa-ico-sessions;
+}
+
+.wa-ico-dashboard::before {
+  content: $wa-ico-dashboard;
 }
 

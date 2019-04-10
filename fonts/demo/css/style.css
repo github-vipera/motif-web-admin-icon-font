@@ -322,3 +322,7 @@ icons
     content: "\ea2d";
 }
 
+.wa-ico-dashboard::before {
+    content: "\ea2e";
+}
+
