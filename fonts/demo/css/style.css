@@ -326,3 +326,7 @@ icons
     content: "\ea2e";
 }
 
+.wa-ico-scheduler::before {
+    content: "\ea2f";
+}
+

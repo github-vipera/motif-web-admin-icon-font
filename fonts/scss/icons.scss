@@ -50,6 +50,7 @@ $wa-ico-users: unicode(ea2b);
 $wa-ico-platform: unicode(ea2c);
 $wa-ico-sessions: unicode(ea2d);
 $wa-ico-dashboard: unicode(ea2e);
+$wa-ico-scheduler: unicode(ea2f);
 
 .wa-ico-links::before {
   content: $wa-ico-links;
@@ -229,5 +230,9 @@ $wa-ico-dashboard: unicode(ea2e);
 
 .wa-ico-dashboard::before {
   content: $wa-ico-dashboard;
+}
+
+.wa-ico-scheduler::before {
+  content: $wa-ico-scheduler;
 }
 
