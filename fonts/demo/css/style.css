@@ -330,3 +330,7 @@ icons
     content: "\ea2f";
 }
 
+.wa-ico-relations-links::before {
+    content: "\ea30";
+}
+
